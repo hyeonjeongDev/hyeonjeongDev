@@ -1,4 +1,8 @@
-### Hi there 👋
+<a href="https://instagram.com/hiiio3o">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/hiiio3o/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--
 **hyeonjeongDev/hyeonjeongDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
