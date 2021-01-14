@@ -51,12 +51,6 @@ __자라나는 새싹 개발자 서현정입니다.__:seedling:
 * 바리스타2급
 * __정보처리산업기사__
 
-<a href="https://instagram.com/hiiio3o">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/hiiio3o/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 <!--
 **hyeonjeongDev/hyeonjeongDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
