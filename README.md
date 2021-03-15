@@ -1,40 +1,37 @@
-__자라나는 새싹 개발자 서현정입니다.__:seedling:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2FhyeonjeongDev&count_bg=%23FFBDD3&title_bg=%236A6A6A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-### 보유기술 및 능력
-
+## 자라나는 새싹 개발자 서현정입니다. :seedling:
+* 보유기술 및 능력
 <p>
-<img src="https://user-images.githubusercontent.com/69497834/104555313-fe77d180-5680-11eb-829f-25031c4aa08c.jpg" height="70px">　
-<img src="https://user-images.githubusercontent.com/69497834/104555779-ccb33a80-5681-11eb-8f25-669f0e7211d3.jpg" height="70px">　
-<img src="https://user-images.githubusercontent.com/69497834/104555792-cf159480-5681-11eb-84e5-a5a54a36449d.jpg" height="70px">　
-<img src="https://user-images.githubusercontent.com/69497834/104555788-ce7cfe00-5681-11eb-9386-35fb7e095f0d.jpg" height="70px">　
-<img src="https://user-images.githubusercontent.com/69497834/104555794-cf159480-5681-11eb-9830-38d30e6a616e.jpg" height="70px">　
-<img src="https://user-images.githubusercontent.com/69497834/104555790-ce7cfe00-5681-11eb-835f-b1c3245c7e30.jpg" height="70px">　
-<img src="https://user-images.githubusercontent.com/69497834/104555798-cfae2b00-5681-11eb-9124-f82a5f9a779a.jpg" height="60px">　
+　　<img src="https://user-images.githubusercontent.com/69497834/104555313-fe77d180-5680-11eb-829f-25031c4aa08c.jpg" height="60px">　
+<img src="https://user-images.githubusercontent.com/69497834/104555779-ccb33a80-5681-11eb-8f25-669f0e7211d3.jpg" height="60px">　
+<img src="https://user-images.githubusercontent.com/69497834/104555792-cf159480-5681-11eb-84e5-a5a54a36449d.jpg" height="60px">　
+<img src="https://user-images.githubusercontent.com/69497834/104555788-ce7cfe00-5681-11eb-9386-35fb7e095f0d.jpg" height="60px">　
+<img src="https://user-images.githubusercontent.com/69497834/104555794-cf159480-5681-11eb-9830-38d30e6a616e.jpg" height="60px">　
+<img src="https://user-images.githubusercontent.com/69497834/104555790-ce7cfe00-5681-11eb-835f-b1c3245c7e30.jpg" height="60px">　
+<img src="https://user-images.githubusercontent.com/69497834/104555798-cfae2b00-5681-11eb-9124-f82a5f9a779a.jpg" height="50px">　
 </p>
 <p>
-<img src="https://user-images.githubusercontent.com/69497834/104558009-7ba54580-5685-11eb-9f99-f51e24136268.jpeg" height="60px">　
-<img src="https://user-images.githubusercontent.com/69497834/104556895-af7f6b80-5683-11eb-8b82-cc6f623312d8.jpg" height="60px">　
-<img src="https://user-images.githubusercontent.com/69497834/104555783-cde46780-5681-11eb-8935-390deb6c7d6c.jpg" height="60px">　
-<img src="https://user-images.githubusercontent.com/69497834/104555786-cde46780-5681-11eb-85d0-f07f269356e5.jpg" height="70px">
+　　<img src="https://user-images.githubusercontent.com/69497834/104558009-7ba54580-5685-11eb-9f99-f51e24136268.jpeg" height="50px">　
+<img src="https://user-images.githubusercontent.com/69497834/104556895-af7f6b80-5683-11eb-8b82-cc6f623312d8.jpg" height="50px">　
+<img src="https://user-images.githubusercontent.com/69497834/104555783-cde46780-5681-11eb-8935-390deb6c7d6c.jpg" height="50px">　
+<img src="https://user-images.githubusercontent.com/69497834/104555786-cde46780-5681-11eb-85d0-f07f269356e5.jpg" height="60px">
 </p>
 
-<a href="https://instagram.com/hiiio3o">
+<br/>
+
+* 이메일 : seohyeonjeong.dev@gmail.com / hiiio3o@naver.com
+* 깃허브 : github.com/hyeonjeongDev
+* 포트폴리오 : https://hyeonjeongDev.github.io/portfolio.html
+* <a href="https://instagram.com/hiiio3o">
     <img 
         src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/hiiio3o/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<br/>
-
-## 소개
-* 이름 : 서현정
-* 이메일 : seohyeonjeong.dev@gmail.com / hiiio3o@naver.com
-* 깃허브 : github.com/hyeonjeongDev
-
 ## 학력
 * 2008.03 ~ 2011.02　정화여자고등학교　　　　　　　　　고등학교 졸업
-* 2011.03 ~ 2013.02　영남이공대학교 경영계열 세무·회계 　대학교(2/3년제) 졸업
+* 2011.03 ~ 2013.02　영남이공대학교 경영계열 세무·회계 　대학교(2년제) 졸업
 
 ## 경력
 * 2015.04 ~ 2017.04　(주)대봉리치　　　경영·사무 > 경리·출납·결산
