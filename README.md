@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hyeonjeongDev&count_bg=%23FFBDD3&title_bg=%236A6A6A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 서현정
-* 자라나는 새싹 개발자입니다. :seedling:
+* 자라나는 새싹 개발자 :seedling:
 * 보유기술 및 능력<br/>
 <img src="https://user-images.githubusercontent.com/69497834/104555313-fe77d180-5680-11eb-829f-25031c4aa08c.jpg" height="50px">　
 <img src="https://user-images.githubusercontent.com/69497834/104555779-ccb33a80-5681-11eb-8f25-669f0e7211d3.jpg" height="50px">　
