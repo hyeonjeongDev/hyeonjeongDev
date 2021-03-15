@@ -2,25 +2,18 @@
 
 ## 서현정
 * 자라나는 새싹 개발자입니다. :seedling:
-* 보유기술 및 능력
-<p>
-　　<img src="https://user-images.githubusercontent.com/69497834/104555313-fe77d180-5680-11eb-829f-25031c4aa08c.jpg" height="50px">　
+* 보유기술 및 능력<br/>
+<img src="https://user-images.githubusercontent.com/69497834/104555313-fe77d180-5680-11eb-829f-25031c4aa08c.jpg" height="50px">　
 <img src="https://user-images.githubusercontent.com/69497834/104555779-ccb33a80-5681-11eb-8f25-669f0e7211d3.jpg" height="50px">　
 <img src="https://user-images.githubusercontent.com/69497834/104555792-cf159480-5681-11eb-84e5-a5a54a36449d.jpg" height="50px">　
 <img src="https://user-images.githubusercontent.com/69497834/104555788-ce7cfe00-5681-11eb-9386-35fb7e095f0d.jpg" height="50px">　
 <img src="https://user-images.githubusercontent.com/69497834/104555794-cf159480-5681-11eb-9830-38d30e6a616e.jpg" height="50px">　
 <img src="https://user-images.githubusercontent.com/69497834/104555790-ce7cfe00-5681-11eb-835f-b1c3245c7e30.jpg" height="50px">　
-<img src="https://user-images.githubusercontent.com/69497834/104555798-cfae2b00-5681-11eb-9124-f82a5f9a779a.jpg" height="40px">　
-</p>
-<p>
-　　<img src="https://user-images.githubusercontent.com/69497834/104558009-7ba54580-5685-11eb-9f99-f51e24136268.jpeg" height="40px">　
+<img src="https://user-images.githubusercontent.com/69497834/104555798-cfae2b00-5681-11eb-9124-f82a5f9a779a.jpg" height="40px"><br/>
+<img src="https://user-images.githubusercontent.com/69497834/104558009-7ba54580-5685-11eb-9f99-f51e24136268.jpeg" height="40px">　
 <img src="https://user-images.githubusercontent.com/69497834/104556895-af7f6b80-5683-11eb-8b82-cc6f623312d8.jpg" height="40px">　
 <img src="https://user-images.githubusercontent.com/69497834/104555783-cde46780-5681-11eb-8935-390deb6c7d6c.jpg" height="40px">　
-<img src="https://user-images.githubusercontent.com/69497834/104555786-cde46780-5681-11eb-85d0-f07f269356e5.jpg" height="50px">
-</p>
-
-<br/>
-
+<img src="https://user-images.githubusercontent.com/69497834/104555786-cde46780-5681-11eb-85d0-f07f269356e5.jpg" height="50px"><br/>
 * 이메일 : seohyeonjeong.dev@gmail.com / hiiio3o@naver.com
 * 깃허브 : github.com/hyeonjeongDev
 * __포트폴리오__ : https://hyeonjeongDev.github.io/portfolio.html
