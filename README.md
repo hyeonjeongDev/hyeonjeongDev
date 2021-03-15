@@ -1,6 +1,6 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2FhyeonjeongDev&count_bg=%23FFBDD3&title_bg=%236A6A6A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hyeonjeongDev&count_bg=%23FFBDD3&title_bg=%236A6A6A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 서현정
+## 서 현 정
 * 자라나는 새싹 개발자입니다. :seedling:
 * 보유기술 및 능력
 <p>
